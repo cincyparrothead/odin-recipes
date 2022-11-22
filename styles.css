@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 75px;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+a {
+    font-size: 22px;
+    line-height: 1.6;
+}
